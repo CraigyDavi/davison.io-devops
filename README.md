@@ -1,5 +1,7 @@
 # [davison.io Devops](https://davison.io/davison.io-devops/) :computer: [![](https://img.shields.io/travis/davisonio/davison.io-devops.svg?style=flat-square)](https://travis-ci.org/davisonio/davison.io-devops) [![](https://img.shields.io/gitter/room/davisonio/bacon.svg)](https://gitter.im/davisonio/bacon)
 
+[![Join the chat at https://gitter.im/davisonio/davison.io-devops](https://badges.gitter.im/davisonio/davison.io-devops.svg)](https://gitter.im/davisonio/davison.io-devops?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > [Ansible](https://www.ansible.com)-powered DevOps and deployment for [davison.io](https://davison.io) and related sites
 
 <p align="center">
